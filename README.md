@@ -6,7 +6,7 @@ While I do also sell my excess keyboard stock over on Etsy, your more than welco
 ## 🧠 What You Can Find Here
 
 - ⚙️ PCB Schematics for all my designs
-- 🛠️ Keyboard Firmware for each of my keyboads along with build guides
+- 🛠️ Keyboard Firmware for each of my keyboards along with build guides
 - 📦 And maybe some odd scripts which I've chosen to make public
 
 ## 💬 Let's Connect
