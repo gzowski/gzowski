@@ -1,4 +1,14 @@
-### Hi there, 
+# 👋 Hi, I'm James!
 
-I build keyboards and use Linux...
+I'm a cybersecurity engineer and hobbyist hardware designer with a particular passion for **mechanical keyboards**.
+While I do also sell my excess keyboard stock over on Etsy, your more than welcome to grab the schematics from here for personal use.
 
+## 🧠 What You Can Find Here
+
+- ⚙️ PCB Schematics for all my designs
+- 🛠️ Keyboard Firmware for each of my keyboads along with build guides
+- 📦 And maybe some odd scripts which I've chosen to make public
+
+## 💬 Let's Connect
+
+If you’re into keyboard design, cybersecurity, or just want to talk about keyboard layouts or switches, feel free to reach out.
