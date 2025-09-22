@@ -17,4 +17,6 @@ If you’re into keyboard design, cybersecurity, or just want to talk about keyb
 
 If you like my work, consider buying me a coffee!  
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-violet.png)](https://www.buymeacoffee.com/gzowski)
+<a href="https://www.buymeacoffee.com/gzowski">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150"/>
+</a>
