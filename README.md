@@ -13,6 +13,8 @@ While I do also sell my excess keyboard stock over on Etsy, your more than welco
 
 If you’re into keyboard design, cybersecurity, or just want to talk about keyboard layouts or switches, feel free to reach out.
 
-## Fancy supporting me?
+## Support Me
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="gzowski" data-color="#BD5FFF" data-emoji="" data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+If you like my work, consider buying me a coffee!  
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-violet.png)](https://www.buymeacoffee.com/gzowski)
